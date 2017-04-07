@@ -1,10 +1,11 @@
 {
-  "name": "reducer-utils",
+  "name": "@mjd/reducer-utils",
   "version": "0.1.0",
   "description": "Useful Redux reducer methods.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publicPublish": "npm publish --access=public"
   },
   "keywords": [
     "redux",
