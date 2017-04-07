@@ -1,0 +1,15 @@
+{
+  "name": "reducer-utils",
+  "version": "0.1.0",
+  "description": "Useful Redux reducer methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "reducer"
+  ],
+  "author": "mjd",
+  "license": "ISC"
+}
